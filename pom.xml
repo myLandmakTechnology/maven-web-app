@@ -96,16 +96,16 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>  
-	      <url>http://54.87.250.193:8088/mylandmarktech/repository/boa-releases/</url>
+	      <name>Lion Technologies Nexus Releases Repository</name>  
+	      <url>http://54.244.96.96:8081/repository/liontech/</url>
 		    
 		          
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.87.250.193:8088/mylandmarktech/repository/boa-snapshot/</url>
+	      <name>Lion Technologies Snapshot Nexus Repository </name>
+	      <url>http://54.244.96.96:8081/repository/ltechno/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
